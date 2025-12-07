@@ -1,0 +1,13 @@
+site_name: Documentación de libreborme
+site_description: Documentación de libreborme
+site_author: Pablo Castellano
+copyright: © Copyright 2015-2018, Pablo Castellano
+repo_url: https://github.com/PabloCastellano/libreborme/
+pages:
+- ¡Bienvenido a la documentación de LibreBOR!: index.md
+- Acerca de LibreBOR: introduction.md
+- Instalación manual: installation.md
+- Instalación automática: install_production_automated.md
+- Comandos de LibreBOR: commands.md
+- API: api.md
+theme: readthedocs

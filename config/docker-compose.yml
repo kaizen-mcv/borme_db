@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: borme-db
+    volumes:
+      - borme-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: borme
+      POSTGRES_PASSWORD: borme
+      POSTGRES_DB: borme_db
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U borme"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  borme-data:

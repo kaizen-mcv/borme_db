@@ -1,0 +1,1609 @@
+{
+  "generated_at": "2025-12-07T23:32:34.389047",
+  "persons_most_positions": [
+    {
+      "name": "RAMAJO AVILA NURIA",
+      "slug": "ramajo-avila-nuria",
+      "positions": 117
+    },
+    {
+      "name": "CABELLO ARANZANA PILAR",
+      "slug": "cabello-aranzana-pilar",
+      "positions": 117
+    },
+    {
+      "name": "HERRERO BENAVENTE JAIME",
+      "slug": "herrero-benavente-jaime",
+      "positions": 117
+    },
+    {
+      "name": "CASTELLANO TORNERO CESAR",
+      "slug": "castellano-tornero-cesar",
+      "positions": 117
+    },
+    {
+      "name": "PASTOR FERNANDEZ CARLOS",
+      "slug": "pastor-fernandez-carlos",
+      "positions": 117
+    },
+    {
+      "name": "ROMAN MOSQUERA CANDELA MERCEDES",
+      "slug": "roman-mosquera-candela-mercedes",
+      "positions": 117
+    },
+    {
+      "name": "DE ANDRES PEREZ LAURA",
+      "slug": "de-andres-perez-laura",
+      "positions": 117
+    },
+    {
+      "name": "SANZ SAN JOSE PABLO",
+      "slug": "sanz-san-jose-pablo",
+      "positions": 117
+    },
+    {
+      "name": "PLATA DURAN ALVARO",
+      "slug": "plata-duran-alvaro",
+      "positions": 117
+    },
+    {
+      "name": "SORAZU AJURIA LEIRE",
+      "slug": "sorazu-ajuria-leire",
+      "positions": 117
+    },
+    {
+      "name": "MORALES CASTAÑO SERGIO",
+      "slug": "morales-castano-sergio",
+      "positions": 117
+    },
+    {
+      "name": "BOSCO ORTEGA CARLA VALENTINA",
+      "slug": "bosco-ortega-carla-valentina",
+      "positions": 117
+    },
+    {
+      "name": "CAMACHO CONDE ALEJANDRO",
+      "slug": "camacho-conde-alejandro",
+      "positions": 117
+    },
+    {
+      "name": "GARVIA IZQUIERDO LUIS",
+      "slug": "garvia-izquierdo-luis",
+      "positions": 117
+    },
+    {
+      "name": "ZURITA GOMEZ SANDRA",
+      "slug": "zurita-gomez-sandra",
+      "positions": 117
+    },
+    {
+      "name": "MENENDEZ ALVAREZ DARDET CARLOS",
+      "slug": "menendez-alvarez-dardet-carlos",
+      "positions": 116
+    },
+    {
+      "name": "BERMUDEZ RAMA RICARDO",
+      "slug": "bermudez-rama-ricardo",
+      "positions": 114
+    },
+    {
+      "name": "NUÑEZ HUERTA MARIO",
+      "slug": "nunez-huerta-mario",
+      "positions": 104
+    },
+    {
+      "name": "PREFACI CORELL JOAQUIN",
+      "slug": "prefaci-corell-joaquin",
+      "positions": 69
+    },
+    {
+      "name": "TORQUEMADA BOADILLA MAR",
+      "slug": "torquemada-boadilla-mar",
+      "positions": 69
+    },
+    {
+      "name": "MERCADAL BOSCH ANTHEA",
+      "slug": "mercadal-bosch-anthea",
+      "positions": 69
+    },
+    {
+      "name": "YPERLAAN BLAJE HELENA",
+      "slug": "yperlaan-blaje-helena",
+      "positions": 67
+    },
+    {
+      "name": "BLAZQUEZ HERNANDEZ OSCAR SALVADOR",
+      "slug": "blazquez-hernandez-oscar-salvador",
+      "positions": 55
+    },
+    {
+      "name": "RODRIGO DURAN SALVADOR",
+      "slug": "rodrigo-duran-salvador",
+      "positions": 31
+    },
+    {
+      "name": "ALVAREZ ALVAREZ RODRIGO",
+      "slug": "alvarez-alvarez-rodrigo",
+      "positions": 29
+    },
+    {
+      "name": "SANTOS IGLESIAS ALBERTO",
+      "slug": "santos-iglesias-alberto",
+      "positions": 29
+    },
+    {
+      "name": "ABREY PAUL",
+      "slug": "abrey-paul",
+      "positions": 26
+    },
+    {
+      "name": "DELGADO AGUIAR JOSE MARIA",
+      "slug": "delgado-aguiar-jose-maria",
+      "positions": 26
+    },
+    {
+      "name": "CHORNAK SOFIIA",
+      "slug": "chornak-sofiia",
+      "positions": 25
+    },
+    {
+      "name": "ZBOROWSKI PATRYK",
+      "slug": "zborowski-patryk",
+      "positions": 25
+    },
+    {
+      "name": "YEROMINA NATALIIA",
+      "slug": "yeromina-nataliia",
+      "positions": 25
+    },
+    {
+      "name": "SERDECHNA ALINA",
+      "slug": "serdechna-alina",
+      "positions": 25
+    },
+    {
+      "name": "ZHUCHKOVSKA ANNA",
+      "slug": "zhuchkovska-anna",
+      "positions": 25
+    },
+    {
+      "name": "FERNANDEZ AURAY DIONISIO",
+      "slug": "fernandez-auray-dionisio",
+      "positions": 25
+    },
+    {
+      "name": "KOSHOVA HANNA",
+      "slug": "koshova-hanna",
+      "positions": 25
+    },
+    {
+      "name": "PEREZ AGUEDA ROBERTO",
+      "slug": "perez-agueda-roberto",
+      "positions": 25
+    },
+    {
+      "name": "RUSNAK ELZBIETA ZOFIA",
+      "slug": "rusnak-elzbieta-zofia",
+      "positions": 25
+    },
+    {
+      "name": "TURCZYNSKA ANNA PAULINA",
+      "slug": "turczynska-anna-paulina",
+      "positions": 25
+    },
+    {
+      "name": "STRZYZ OLGA",
+      "slug": "strzyz-olga",
+      "positions": 25
+    },
+    {
+      "name": "BUBAK JOANNA",
+      "slug": "bubak-joanna",
+      "positions": 25
+    },
+    {
+      "name": "KOLESYNSKA OLHA",
+      "slug": "kolesynska-olha",
+      "positions": 25
+    },
+    {
+      "name": "SYSKA JUSTYNA",
+      "slug": "syska-justyna",
+      "positions": 25
+    },
+    {
+      "name": "KOJSLESNIAK MALGORZATA MARZENA",
+      "slug": "kojslesniak-malgorzata-marzena",
+      "positions": 25
+    },
+    {
+      "name": "ROSENSTRAUCH ALICJA",
+      "slug": "rosenstrauch-alicja",
+      "positions": 25
+    },
+    {
+      "name": "DE RAMON HERRANZ JOSE",
+      "slug": "de-ramon-herranz-jose",
+      "positions": 24
+    },
+    {
+      "name": "EGUSQUIZA GONZALEZ GIL JULIO",
+      "slug": "egusquiza-gonzalez-gil-julio",
+      "positions": 22
+    },
+    {
+      "name": "SAMPER RIVAS FERNANDO",
+      "slug": "samper-rivas-fernando",
+      "positions": 20
+    },
+    {
+      "name": "MEDINA SALAZAR JUAN",
+      "slug": "medina-salazar-juan",
+      "positions": 20
+    },
+    {
+      "name": "HERVAS ZURITA MONTSERRAT",
+      "slug": "hervas-zurita-montserrat",
+      "positions": 20
+    },
+    {
+      "name": "MARTINEZ BERROCAL CELIA MARIA",
+      "slug": "martinez-berrocal-celia-maria",
+      "positions": 19
+    },
+    {
+      "name": "VALLE GUTIERREZ LEOPOLDO JOSE",
+      "slug": "valle-gutierrez-leopoldo-jose",
+      "positions": 19
+    },
+    {
+      "name": "BASCONES PEREZ FRAGERO MIGUEL",
+      "slug": "bascones-perez-fragero-miguel",
+      "positions": 19
+    },
+    {
+      "name": "VELEZ FERRERA ANDRES",
+      "slug": "velez-ferrera-andres",
+      "positions": 17
+    },
+    {
+      "name": "FERNANDEZ ALONSO DANIEL",
+      "slug": "fernandez-alonso-daniel",
+      "positions": 16
+    },
+    {
+      "name": "RUBIO MONTES JUAN",
+      "slug": "rubio-montes-juan",
+      "positions": 16
+    },
+    {
+      "name": "ROMERO FERNANDEZ MONICA",
+      "slug": "romero-fernandez-monica",
+      "positions": 16
+    },
+    {
+      "name": "SANCHIS ANTON ALMUDENA",
+      "slug": "sanchis-anton-almudena",
+      "positions": 16
+    },
+    {
+      "name": "PEREZ FALCON MIGUEL ANGEL",
+      "slug": "perez-falcon-miguel-angel",
+      "positions": 16
+    },
+    {
+      "name": "RASCON ZARZOSA PEDRO JESUS",
+      "slug": "rascon-zarzosa-pedro-jesus",
+      "positions": 16
+    },
+    {
+      "name": "TOBALO CASABLANCA DANIEL",
+      "slug": "tobalo-casablanca-daniel",
+      "positions": 16
+    },
+    {
+      "name": "MORALEJO VALLE CALIXTO",
+      "slug": "moralejo-valle-calixto",
+      "positions": 16
+    },
+    {
+      "name": "LUQUERO RAMOS EVA MARIA",
+      "slug": "luquero-ramos-eva-maria",
+      "positions": 16
+    },
+    {
+      "name": "OGAYAR SORIANO RAMON",
+      "slug": "ogayar-soriano-ramon",
+      "positions": 16
+    },
+    {
+      "name": "LOZANO COLMENAREJO JAVIER",
+      "slug": "lozano-colmenarejo-javier",
+      "positions": 16
+    },
+    {
+      "name": "LODEIRO VIEITES FRANCISCO",
+      "slug": "lodeiro-vieites-francisco",
+      "positions": 16
+    },
+    {
+      "name": "PALOMAR CROS ORIOL",
+      "slug": "palomar-cros-oriol",
+      "positions": 16
+    },
+    {
+      "name": "GIMENEZ VALLEJO CHRISTIAN",
+      "slug": "gimenez-vallejo-christian",
+      "positions": 16
+    },
+    {
+      "name": "JUSTICIA MARTIN JUAN LUIS",
+      "slug": "justicia-martin-juan-luis",
+      "positions": 16
+    },
+    {
+      "name": "PASCUAL VELAZQUEZ ALFONSO",
+      "slug": "pascual-velazquez-alfonso",
+      "positions": 16
+    },
+    {
+      "name": "LOBATO BATIZ IZARO",
+      "slug": "lobato-batiz-izaro",
+      "positions": 16
+    },
+    {
+      "name": "GARCIA LOPEZ JULIA",
+      "slug": "garcia-lopez-julia",
+      "positions": 16
+    },
+    {
+      "name": "PAVON PALAU MONICA",
+      "slug": "pavon-palau-monica",
+      "positions": 16
+    },
+    {
+      "name": "CARRASCO GOMEZ ANA",
+      "slug": "carrasco-gomez-ana",
+      "positions": 16
+    },
+    {
+      "name": "CARRETERO ESTEBAN ELENA",
+      "slug": "carretero-esteban-elena",
+      "positions": 16
+    },
+    {
+      "name": "GASA LLAU CARMEN",
+      "slug": "gasa-llau-carmen",
+      "positions": 16
+    },
+    {
+      "name": "IBEAS GARCIA ANA MARIA",
+      "slug": "ibeas-garcia-ana-maria",
+      "positions": 16
+    },
+    {
+      "name": "BUSCO BAYON ANABEL",
+      "slug": "busco-bayon-anabel",
+      "positions": 16
+    },
+    {
+      "name": "BARAGAÑO RODRIGUEZ CARLOS",
+      "slug": "baragano-rodriguez-carlos",
+      "positions": 16
+    },
+    {
+      "name": "RODRIGUEZ RODRIGUEZ VANESSA",
+      "slug": "rodriguez-rodriguez-vanessa",
+      "positions": 16
+    },
+    {
+      "name": "COSTA MARRODAN SERGIO",
+      "slug": "costa-marrodan-sergio",
+      "positions": 16
+    },
+    {
+      "name": "GOMEZ FRUCTUOSO FRANCISCO",
+      "slug": "gomez-fructuoso-francisco",
+      "positions": 16
+    },
+    {
+      "name": "BADILLO SERRANO ANTONIO",
+      "slug": "badillo-serrano-antonio",
+      "positions": 16
+    },
+    {
+      "name": "CAZORLA RUIZ ANTONIO JOSE",
+      "slug": "cazorla-ruiz-antonio-jose",
+      "positions": 16
+    },
+    {
+      "name": "JUSTEL MIRANDA RAUL",
+      "slug": "justel-miranda-raul",
+      "positions": 16
+    },
+    {
+      "name": "GOMEZ BACHILLER RAFAEL",
+      "slug": "gomez-bachiller-rafael",
+      "positions": 16
+    },
+    {
+      "name": "GONZALEZ PILAR MARIA PAZ",
+      "slug": "gonzalez-pilar-maria-paz",
+      "positions": 16
+    },
+    {
+      "name": "FERNANDEZ SANCHEZ PEDRO",
+      "slug": "fernandez-sanchez-pedro",
+      "positions": 16
+    },
+    {
+      "name": "SANTOS MONTERO MIGUEL ANGEL",
+      "slug": "santos-montero-miguel-angel",
+      "positions": 16
+    },
+    {
+      "name": "DIAZ RODRIGUEZ ANTONIO",
+      "slug": "diaz-rodriguez-antonio",
+      "positions": 16
+    },
+    {
+      "name": "ALTOZANO GOSALVEZ ALVARO",
+      "slug": "altozano-gosalvez-alvaro",
+      "positions": 16
+    },
+    {
+      "name": "AYUSO ARROYO ALEJANDRO",
+      "slug": "ayuso-arroyo-alejandro",
+      "positions": 16
+    },
+    {
+      "name": "FERNANDEZ DE VINZENZI ALEJO SEBASTIAN",
+      "slug": "fernandez-de-vinzenzi-alejo-sebastian",
+      "positions": 16
+    },
+    {
+      "name": "TAULERO RODRIGUEZ JOSE",
+      "slug": "taulero-rodriguez-jose",
+      "positions": 15
+    },
+    {
+      "name": "RODRIGUEZ ARRANZ FERNANDO LUIS",
+      "slug": "rodriguez-arranz-fernando-luis",
+      "positions": 15
+    },
+    {
+      "name": "RODRIGO DE GONZALO MARTINEZ",
+      "slug": "rodrigo-de-gonzalo-martinez",
+      "positions": 15
+    },
+    {
+      "name": "VAQUERO LUIS RAFAEL ANGEL",
+      "slug": "vaquero-luis-rafael-angel",
+      "positions": 14
+    },
+    {
+      "name": "RODRIGUEZ PELAZ JOSE MANUEL",
+      "slug": "rodriguez-pelaz-jose-manuel",
+      "positions": 14
+    },
+    {
+      "name": "FERNANDEZ ZUGAZABEITIA ALEJANDRO",
+      "slug": "fernandez-zugazabeitia-alejandro",
+      "positions": 14
+    },
+    {
+      "name": "GONZALEZ SANCHEZ MARIA YOLANDA",
+      "slug": "gonzalez-sanchez-maria-yolanda",
+      "positions": 14
+    },
+    {
+      "name": "VILLORIA MARTINEZ MIGUEL",
+      "slug": "villoria-martinez-miguel",
+      "positions": 14
+    }
+  ],
+  "companies_most_anuncios": [
+    {
+      "name": "PRICEWATERHOUSECOOPERS AUDITORES",
+      "type": "SL",
+      "slug": "pricewaterhousecoopers-auditores",
+      "anuncios": 208
+    },
+    {
+      "name": "ERNST & YOUNG",
+      "type": "SL",
+      "slug": "ernst-young",
+      "anuncios": 193
+    },
+    {
+      "name": "KPMG AUDITORES",
+      "type": "SL",
+      "slug": "kpmg-auditores",
+      "anuncios": 138
+    },
+    {
+      "name": "DELOITTE AUDITORES",
+      "type": "SL",
+      "slug": "deloitte-auditores",
+      "anuncios": 134
+    },
+    {
+      "name": "EL CORTE INGLES",
+      "type": "SA",
+      "slug": "el-corte-ingles",
+      "anuncios": 60
+    },
+    {
+      "name": "GRANT THORNTON",
+      "type": "SLP",
+      "slug": "grant-thornton",
+      "anuncios": 50
+    },
+    {
+      "name": "BDO AUDITORES",
+      "type": "SLP",
+      "slug": "bdo-auditores",
+      "anuncios": 48
+    },
+    {
+      "name": "FORVIS MAZARS AUDITORES",
+      "type": "SLP",
+      "slug": "forvis-mazars-auditores",
+      "anuncios": 27
+    },
+    {
+      "name": "INVESTMENT POWER CONSERVATION",
+      "type": "SL",
+      "slug": "investment-power-conservation",
+      "anuncios": 25
+    },
+    {
+      "name": "AUREN AUDITORES SP",
+      "type": "SLP",
+      "slug": "auren-auditores-sp",
+      "anuncios": 24
+    },
+    {
+      "name": "FERNANDO SOL",
+      "type": "SL",
+      "slug": "fernando-sol",
+      "anuncios": 20
+    },
+    {
+      "name": "BAKER TILLY AUDITORES",
+      "type": "SLP",
+      "slug": "baker-tilly-auditores",
+      "anuncios": 18
+    },
+    {
+      "name": "DELOITTE",
+      "type": "SL",
+      "slug": "deloitte",
+      "anuncios": 16
+    },
+    {
+      "name": "PLETA AUDITORES",
+      "type": "SA",
+      "slug": "pleta-auditores",
+      "anuncios": 16
+    },
+    {
+      "name": "LKS NEXT ESTRUCTURACION DE PROYECTOS",
+      "type": "SL",
+      "slug": "lks-next-estructuracion-de-proyectos",
+      "anuncios": 15
+    },
+    {
+      "name": "SOCIQUICK",
+      "type": "SL",
+      "slug": "sociquick",
+      "anuncios": 15
+    },
+    {
+      "name": "ENDESA",
+      "type": "SA",
+      "slug": "endesa",
+      "anuncios": 14
+    },
+    {
+      "name": "PEÑA ABOGADOS Y ASESORES TRIBUTARIOS",
+      "type": "SL",
+      "slug": "pena-abogados-y-asesores-tributarios",
+      "anuncios": 13
+    },
+    {
+      "name": "VILLALBA ENVID Y CIA AUDITORES",
+      "type": "SL",
+      "slug": "villalba-envid-y-cia-auditores",
+      "anuncios": 13
+    },
+    {
+      "name": "RSM SPAIN AUDITORES",
+      "type": "SLP",
+      "slug": "rsm-spain-auditores",
+      "anuncios": 13
+    },
+    {
+      "name": "BANCO SANTANDER",
+      "type": "SA",
+      "slug": "banco-santander",
+      "anuncios": 12
+    },
+    {
+      "name": "CAIXABANK",
+      "type": "SA",
+      "slug": "caixabank",
+      "anuncios": 12
+    },
+    {
+      "name": "VIR AUDIT",
+      "type": "SLP",
+      "slug": "vir-audit",
+      "anuncios": 11
+    },
+    {
+      "name": "ILUNION PROXIMIDAD",
+      "type": "SL",
+      "slug": "ilunion-proximidad",
+      "anuncios": 11
+    },
+    {
+      "name": "PKF ATTEST SERVICIOS EMPRESARIALES",
+      "type": "SL",
+      "slug": "pkf-attest-servicios-empresariales",
+      "anuncios": 10
+    },
+    {
+      "name": "FLEXIPLAN SOCIEDAD ANONIMA EMPRESA DE TRABAJO TEMPORAL",
+      "type": "",
+      "slug": "flexiplan-sociedad-anonima-empresa-de-trabajo-temporal",
+      "anuncios": 10
+    },
+    {
+      "name": "ATECH BUSINESS OPERATION",
+      "type": "SL",
+      "slug": "atech-business-operation",
+      "anuncios": 10
+    },
+    {
+      "name": "ESPAUDIT GABINETE DE AUDITORIA",
+      "type": "SAP",
+      "slug": "espaudit-gabinete-de-auditoria",
+      "anuncios": 10
+    },
+    {
+      "name": "ENDESA ENERGIA",
+      "type": "SA",
+      "slug": "endesa-energia",
+      "anuncios": 10
+    },
+    {
+      "name": "AUDALIA NEXIA AUDITORES",
+      "type": "SL",
+      "slug": "audalia-nexia-auditores",
+      "anuncios": 10
+    },
+    {
+      "name": "BUSQUET ESTUDI JURIDIC",
+      "type": "SL",
+      "slug": "busquet-estudi-juridic",
+      "anuncios": 10
+    },
+    {
+      "name": "CROWE AUDITORES ESPAÑA",
+      "type": "SLP",
+      "slug": "crowe-auditores-espana",
+      "anuncios": 10
+    },
+    {
+      "name": "REPRESENTA DIRECTOR SERVICES",
+      "type": "SL",
+      "slug": "representa-director-services",
+      "anuncios": 9
+    },
+    {
+      "name": "SCHNEIDER ELECTRIC SOLAR SPAIN",
+      "type": "SA",
+      "slug": "schneider-electric-solar-spain",
+      "anuncios": 9
+    },
+    {
+      "name": "FRIO MARITIMO TERRESTRE",
+      "type": "SA",
+      "slug": "frio-maritimo-terrestre",
+      "anuncios": 9
+    },
+    {
+      "name": "IDP INGENIERIA Y ARQUITECTURA IBERIA",
+      "type": "SL",
+      "slug": "idp-ingenieria-y-arquitectura-iberia",
+      "anuncios": 9
+    },
+    {
+      "name": "ALANPA MEDITERRANEA",
+      "type": "SL",
+      "slug": "alanpa-mediterranea",
+      "anuncios": 9
+    },
+    {
+      "name": "FRIMARTE",
+      "type": "SL",
+      "slug": "frimarte",
+      "anuncios": 9
+    },
+    {
+      "name": "BERMEJO & WILLIAMSON VENTURE CAPITAL",
+      "type": "SL",
+      "slug": "bermejo-williamson-venture-capital",
+      "anuncios": 9
+    },
+    {
+      "name": "ESPACIO AUDITORES",
+      "type": "SLP",
+      "slug": "espacio-auditores",
+      "anuncios": 8
+    },
+    {
+      "name": "EVIDENCE AUDITORES",
+      "type": "SL",
+      "slug": "evidence-auditores",
+      "anuncios": 8
+    },
+    {
+      "name": "FECLA",
+      "type": "SL",
+      "slug": "fecla",
+      "anuncios": 8
+    },
+    {
+      "name": "CAPITAL AUDITORS AND CONSULTANTS",
+      "type": "SL",
+      "slug": "capital-auditors-and-consultants",
+      "anuncios": 8
+    },
+    {
+      "name": "EULEN SEGURIDAD",
+      "type": "SA",
+      "slug": "eulen-seguridad",
+      "anuncios": 8
+    },
+    {
+      "name": "INTERTRUST (SPAIN)",
+      "type": "SL",
+      "slug": "intertrust-spain",
+      "anuncios": 8
+    },
+    {
+      "name": "AUDITORIA I CONTROL AUDITORS",
+      "type": "SLP",
+      "slug": "auditoria-i-control-auditors",
+      "anuncios": 8
+    },
+    {
+      "name": "FUNERARIA FERNANDEZ",
+      "type": "SA",
+      "slug": "funeraria-fernandez",
+      "anuncios": 8
+    },
+    {
+      "name": "ROCABRUNA 2002",
+      "type": "SL",
+      "slug": "rocabruna-2002",
+      "anuncios": 8
+    },
+    {
+      "name": "ADAM ECOTECH",
+      "type": "SA",
+      "slug": "adam-ecotech",
+      "anuncios": 8
+    },
+    {
+      "name": "SEAT",
+      "type": "SA",
+      "slug": "seat",
+      "anuncios": 7
+    },
+    {
+      "name": "BOVE MONTERO Y ASOCIADOS",
+      "type": "SL",
+      "slug": "bove-montero-y-asociados",
+      "anuncios": 7
+    },
+    {
+      "name": "AUDITORES ASOCIADOS AAGC",
+      "type": "SAP",
+      "slug": "auditores-asociados-aagc",
+      "anuncios": 7
+    },
+    {
+      "name": "MEINSA SISTEMAS",
+      "type": "SL",
+      "slug": "meinsa-sistemas",
+      "anuncios": 7
+    },
+    {
+      "name": "POSTIGO AUDITORES",
+      "type": "SLP",
+      "slug": "postigo-auditores",
+      "anuncios": 7
+    },
+    {
+      "name": "ETL & AOB AUDITORES",
+      "type": "SL",
+      "slug": "etl-aob-auditores",
+      "anuncios": 7
+    },
+    {
+      "name": "AUDRIA AUDITORIA Y CONSULTORIA",
+      "type": "SLP",
+      "slug": "audria-auditoria-y-consultoria",
+      "anuncios": 7
+    },
+    {
+      "name": "EULEN SERVICIOS SOCIOSANITARIOS",
+      "type": "SA",
+      "slug": "eulen-servicios-sociosanitarios",
+      "anuncios": 7
+    },
+    {
+      "name": "DIRECTORSHIP CIBELES",
+      "type": "SL",
+      "slug": "directorship-cibeles",
+      "anuncios": 7
+    },
+    {
+      "name": "ELECTRIMEGA",
+      "type": "SL",
+      "slug": "electrimega",
+      "anuncios": 7
+    },
+    {
+      "name": "AGEM CONSULTORES Y AUDITORES",
+      "type": "SL",
+      "slug": "agem-consultores-y-auditores",
+      "anuncios": 7
+    },
+    {
+      "name": "INDUSTRIAL IGUALADINA",
+      "type": "SL",
+      "slug": "industrial-igualadina",
+      "anuncios": 7
+    },
+    {
+      "name": "LEROY MERLIN ESPAÑA",
+      "type": "SL",
+      "slug": "leroy-merlin-espana",
+      "anuncios": 7
+    },
+    {
+      "name": "NENIGOEN",
+      "type": "SL",
+      "slug": "nenigoen",
+      "anuncios": 7
+    },
+    {
+      "name": "BLANCO GONZALEZ Y MIER SOCIEDAD LIMITADA CENSORES",
+      "type": "",
+      "slug": "blanco-gonzalez-y-mier-sociedad-limitada-censores",
+      "anuncios": 6
+    },
+    {
+      "name": "MIRET Y COMPAÑIA",
+      "type": "SA",
+      "slug": "miret-y-compania",
+      "anuncios": 6
+    },
+    {
+      "name": "AOB GLOBAL AUDITORIA DE CUENTAS",
+      "type": "SL",
+      "slug": "aob-global-auditoria-de-cuentas",
+      "anuncios": 6
+    },
+    {
+      "name": "CURTITS AQUALATA",
+      "type": "SA",
+      "slug": "curtits-aqualata",
+      "anuncios": 6
+    },
+    {
+      "name": "CURTIDOS BADIA",
+      "type": "SA",
+      "slug": "curtidos-badia",
+      "anuncios": 6
+    },
+    {
+      "name": "NATURGY NUEVAS ENERGIAS",
+      "type": "SL",
+      "slug": "naturgy-nuevas-energias",
+      "anuncios": 6
+    },
+    {
+      "name": "BANCO DE SABADELL",
+      "type": "SA",
+      "slug": "banco-de-sabadell",
+      "anuncios": 6
+    },
+    {
+      "name": "ACAUDIT AUDITORES",
+      "type": "SL",
+      "slug": "acaudit-auditores",
+      "anuncios": 6
+    },
+    {
+      "name": "EUROARCE MINERIA",
+      "type": "SA",
+      "slug": "euroarce-mineria",
+      "anuncios": 6
+    },
+    {
+      "name": "PARTHELIO",
+      "type": "SL",
+      "slug": "parthelio",
+      "anuncios": 6
+    },
+    {
+      "name": "CAJA RURAL DE GRANADA SOCIEDAD COOPERATIVA DE CREDITO",
+      "type": "",
+      "slug": "caja-rural-de-granada-sociedad-cooperativa-de-credito",
+      "anuncios": 6
+    },
+    {
+      "name": "DEIMOS SPACE",
+      "type": "SL",
+      "slug": "deimos-space",
+      "anuncios": 6
+    },
+    {
+      "name": "FESTIVAL PERELADA",
+      "type": "SL",
+      "slug": "festival-perelada",
+      "anuncios": 6
+    },
+    {
+      "name": "ELECTRIMEGA SEGURIDAD",
+      "type": "SL",
+      "slug": "electrimega-seguridad",
+      "anuncios": 6
+    },
+    {
+      "name": "MAR DEL GUINCHO",
+      "type": "SL",
+      "slug": "mar-del-guincho",
+      "anuncios": 6
+    },
+    {
+      "name": "GRIFOLS",
+      "type": "SA",
+      "slug": "grifols",
+      "anuncios": 6
+    },
+    {
+      "name": "ENEL GREEN POWER ESPAÑA",
+      "type": "SL",
+      "slug": "enel-green-power-espana",
+      "anuncios": 6
+    },
+    {
+      "name": "AUDIBES AUDITORS ASSOCIATS",
+      "type": "SLP",
+      "slug": "audibes-auditors-associats",
+      "anuncios": 6
+    },
+    {
+      "name": "TMF MANAGEMENT SPAIN",
+      "type": "SL",
+      "slug": "tmf-management-spain",
+      "anuncios": 6
+    },
+    {
+      "name": "EMENDA CONSULTING",
+      "type": "SL",
+      "slug": "emenda-consulting",
+      "anuncios": 6
+    },
+    {
+      "name": "BILBAO-RIA 2000",
+      "type": "SA",
+      "slug": "bilbao-ria-2000",
+      "anuncios": 6
+    },
+    {
+      "name": "VEOLIA ESPAÑA",
+      "type": "SL",
+      "slug": "veolia-espana",
+      "anuncios": 6
+    },
+    {
+      "name": "ISLAZULI 4",
+      "type": "SL",
+      "slug": "islazuli-4",
+      "anuncios": 6
+    },
+    {
+      "name": "ENDESA GENERACION",
+      "type": "SA",
+      "slug": "endesa-generacion",
+      "anuncios": 6
+    },
+    {
+      "name": "GALICONTROL",
+      "type": "SL",
+      "slug": "galicontrol",
+      "anuncios": 5
+    },
+    {
+      "name": "GRUPO CORPORATIVO OBECORP",
+      "type": "SL",
+      "slug": "grupo-corporativo-obecorp",
+      "anuncios": 5
+    },
+    {
+      "name": "CABAÑERO",
+      "type": "SL",
+      "slug": "cabanero",
+      "anuncios": 5
+    },
+    {
+      "name": "EURO DEPOT ESPAÑA",
+      "type": "SA",
+      "slug": "euro-depot-espana",
+      "anuncios": 5
+    },
+    {
+      "name": "UNICAJA BANCO",
+      "type": "SA",
+      "slug": "unicaja-banco",
+      "anuncios": 5
+    },
+    {
+      "name": "GR SOLAR 2020",
+      "type": "SL",
+      "slug": "gr-solar-2020",
+      "anuncios": 5
+    },
+    {
+      "name": "OLSZEWSKI AUDITORES",
+      "type": "SL",
+      "slug": "olszewski-auditores",
+      "anuncios": 5
+    },
+    {
+      "name": "OPTIMUM RE SPAIN, SOCIMI",
+      "type": "SA",
+      "slug": "optimum-re-spain-socimi",
+      "anuncios": 5
+    },
+    {
+      "name": "FAURA CASAS AUDITORS CONSULTORS",
+      "type": "SL",
+      "slug": "faura-casas-auditors-consultors",
+      "anuncios": 5
+    },
+    {
+      "name": "BNP PARIBAS REAL ESTATE SPAIN",
+      "type": "SA",
+      "slug": "bnp-paribas-real-estate-spain",
+      "anuncios": 5
+    },
+    {
+      "name": "COUSO Y RUANO AUDITORES",
+      "type": "SLP",
+      "slug": "couso-y-ruano-auditores",
+      "anuncios": 5
+    },
+    {
+      "name": "NUMANCIA CONSULTING",
+      "type": "SL",
+      "slug": "numancia-consulting",
+      "anuncios": 5
+    },
+    {
+      "name": "IDCQ HOSPITALES Y SANIDAD",
+      "type": "SL",
+      "slug": "idcq-hospitales-y-sanidad",
+      "anuncios": 5
+    }
+  ],
+  "persons_most_companies": [
+    {
+      "name": "MORALES CASTAÑO SERGIO",
+      "slug": "morales-castano-sergio",
+      "companies": 117
+    },
+    {
+      "name": "ZURITA GOMEZ SANDRA",
+      "slug": "zurita-gomez-sandra",
+      "companies": 117
+    },
+    {
+      "name": "HERRERO BENAVENTE JAIME",
+      "slug": "herrero-benavente-jaime",
+      "companies": 117
+    },
+    {
+      "name": "PASTOR FERNANDEZ CARLOS",
+      "slug": "pastor-fernandez-carlos",
+      "companies": 117
+    },
+    {
+      "name": "SORAZU AJURIA LEIRE",
+      "slug": "sorazu-ajuria-leire",
+      "companies": 117
+    },
+    {
+      "name": "RAMAJO AVILA NURIA",
+      "slug": "ramajo-avila-nuria",
+      "companies": 117
+    },
+    {
+      "name": "SANZ SAN JOSE PABLO",
+      "slug": "sanz-san-jose-pablo",
+      "companies": 117
+    },
+    {
+      "name": "CASTELLANO TORNERO CESAR",
+      "slug": "castellano-tornero-cesar",
+      "companies": 117
+    },
+    {
+      "name": "PLATA DURAN ALVARO",
+      "slug": "plata-duran-alvaro",
+      "companies": 117
+    },
+    {
+      "name": "BOSCO ORTEGA CARLA VALENTINA",
+      "slug": "bosco-ortega-carla-valentina",
+      "companies": 117
+    },
+    {
+      "name": "CAMACHO CONDE ALEJANDRO",
+      "slug": "camacho-conde-alejandro",
+      "companies": 117
+    },
+    {
+      "name": "DE ANDRES PEREZ LAURA",
+      "slug": "de-andres-perez-laura",
+      "companies": 117
+    },
+    {
+      "name": "ROMAN MOSQUERA CANDELA MERCEDES",
+      "slug": "roman-mosquera-candela-mercedes",
+      "companies": 117
+    },
+    {
+      "name": "CABELLO ARANZANA PILAR",
+      "slug": "cabello-aranzana-pilar",
+      "companies": 117
+    },
+    {
+      "name": "GARVIA IZQUIERDO LUIS",
+      "slug": "garvia-izquierdo-luis",
+      "companies": 117
+    },
+    {
+      "name": "MENENDEZ ALVAREZ DARDET CARLOS",
+      "slug": "menendez-alvarez-dardet-carlos",
+      "companies": 116
+    },
+    {
+      "name": "BERMUDEZ RAMA RICARDO",
+      "slug": "bermudez-rama-ricardo",
+      "companies": 114
+    },
+    {
+      "name": "NUÑEZ HUERTA MARIO",
+      "slug": "nunez-huerta-mario",
+      "companies": 104
+    },
+    {
+      "name": "PREFACI CORELL JOAQUIN",
+      "slug": "prefaci-corell-joaquin",
+      "companies": 69
+    },
+    {
+      "name": "MERCADAL BOSCH ANTHEA",
+      "slug": "mercadal-bosch-anthea",
+      "companies": 69
+    },
+    {
+      "name": "TORQUEMADA BOADILLA MAR",
+      "slug": "torquemada-boadilla-mar",
+      "companies": 69
+    },
+    {
+      "name": "YPERLAAN BLAJE HELENA",
+      "slug": "yperlaan-blaje-helena",
+      "companies": 67
+    },
+    {
+      "name": "BLAZQUEZ HERNANDEZ OSCAR SALVADOR",
+      "slug": "blazquez-hernandez-oscar-salvador",
+      "companies": 31
+    },
+    {
+      "name": "RODRIGO DURAN SALVADOR",
+      "slug": "rodrigo-duran-salvador",
+      "companies": 31
+    },
+    {
+      "name": "CHAGRA LISANDRO GABRIEL",
+      "slug": "chagra-lisandro-gabriel",
+      "companies": 29
+    },
+    {
+      "name": "MARTINEZ PEREZ GINES",
+      "slug": "martinez-perez-gines",
+      "companies": 29
+    },
+    {
+      "name": "ALVAREZ ALVAREZ RODRIGO",
+      "slug": "alvarez-alvarez-rodrigo",
+      "companies": 29
+    },
+    {
+      "name": "ABREY PAUL",
+      "slug": "abrey-paul",
+      "companies": 26
+    },
+    {
+      "name": "DELGADO AGUIAR JOSE MARIA",
+      "slug": "delgado-aguiar-jose-maria",
+      "companies": 26
+    },
+    {
+      "name": "TURCZYNSKA ANNA PAULINA",
+      "slug": "turczynska-anna-paulina",
+      "companies": 25
+    },
+    {
+      "name": "KOSHOVA HANNA",
+      "slug": "koshova-hanna",
+      "companies": 25
+    },
+    {
+      "name": "ROSENSTRAUCH ALICJA",
+      "slug": "rosenstrauch-alicja",
+      "companies": 25
+    },
+    {
+      "name": "KOJSLESNIAK MALGORZATA MARZENA",
+      "slug": "kojslesniak-malgorzata-marzena",
+      "companies": 25
+    },
+    {
+      "name": "BUBAK JOANNA",
+      "slug": "bubak-joanna",
+      "companies": 25
+    },
+    {
+      "name": "CHORNAK SOFIIA",
+      "slug": "chornak-sofiia",
+      "companies": 25
+    },
+    {
+      "name": "PEREZ AGUEDA ROBERTO",
+      "slug": "perez-agueda-roberto",
+      "companies": 25
+    },
+    {
+      "name": "ZBOROWSKI PATRYK",
+      "slug": "zborowski-patryk",
+      "companies": 25
+    },
+    {
+      "name": "KOLESYNSKA OLHA",
+      "slug": "kolesynska-olha",
+      "companies": 25
+    },
+    {
+      "name": "STRZYZ OLGA",
+      "slug": "strzyz-olga",
+      "companies": 25
+    },
+    {
+      "name": "FERNANDEZ AURAY DIONISIO",
+      "slug": "fernandez-auray-dionisio",
+      "companies": 25
+    },
+    {
+      "name": "SERDECHNA ALINA",
+      "slug": "serdechna-alina",
+      "companies": 25
+    },
+    {
+      "name": "RUSNAK ELZBIETA ZOFIA",
+      "slug": "rusnak-elzbieta-zofia",
+      "companies": 25
+    },
+    {
+      "name": "ZHUCHKOVSKA ANNA",
+      "slug": "zhuchkovska-anna",
+      "companies": 25
+    },
+    {
+      "name": "YEROMINA NATALIIA",
+      "slug": "yeromina-nataliia",
+      "companies": 25
+    },
+    {
+      "name": "SYSKA JUSTYNA",
+      "slug": "syska-justyna",
+      "companies": 25
+    },
+    {
+      "name": "SANTOS IGLESIAS ALBERTO",
+      "slug": "santos-iglesias-alberto",
+      "companies": 24
+    },
+    {
+      "name": "TAULERO RODRIGUEZ JOSE",
+      "slug": "taulero-rodriguez-jose",
+      "companies": 22
+    },
+    {
+      "name": "GOMEZ FRUCTUOSO FRANCISCO",
+      "slug": "gomez-fructuoso-francisco",
+      "companies": 22
+    },
+    {
+      "name": "EGUSQUIZA GONZALEZ GIL JULIO",
+      "slug": "egusquiza-gonzalez-gil-julio",
+      "companies": 22
+    },
+    {
+      "name": "MEDINA SALAZAR JUAN",
+      "slug": "medina-salazar-juan",
+      "companies": 20
+    },
+    {
+      "name": "VELEZ FERRERA ANDRES",
+      "slug": "velez-ferrera-andres",
+      "companies": 20
+    },
+    {
+      "name": "SAMPER RIVAS FERNANDO",
+      "slug": "samper-rivas-fernando",
+      "companies": 20
+    },
+    {
+      "name": "SANTIAGO PEREZ ANTONIO",
+      "slug": "santiago-perez-antonio",
+      "companies": 20
+    },
+    {
+      "name": "MATA CISTER GUILLERMO",
+      "slug": "mata-cister-guillermo",
+      "companies": 19
+    },
+    {
+      "name": "BELDARRAIN SANTOS MANUEL",
+      "slug": "beldarrain-santos-manuel",
+      "companies": 18
+    },
+    {
+      "name": "ESMORIS LLORCA ALBERTO",
+      "slug": "esmoris-llorca-alberto",
+      "companies": 18
+    },
+    {
+      "name": "MARTINEZ LOPEZ SERGIO",
+      "slug": "martinez-lopez-sergio",
+      "companies": 17
+    },
+    {
+      "name": "RODRIGUEZ DE LIEBANA TORRES MARIA VANESSA",
+      "slug": "rodriguez-de-liebana-torres-maria-vanessa",
+      "companies": 17
+    },
+    {
+      "name": "PAVON PALAU MONICA",
+      "slug": "pavon-palau-monica",
+      "companies": 16
+    },
+    {
+      "name": "PEREZ FALCON MIGUEL ANGEL",
+      "slug": "perez-falcon-miguel-angel",
+      "companies": 16
+    },
+    {
+      "name": "PALOMAR CROS ORIOL",
+      "slug": "palomar-cros-oriol",
+      "companies": 16
+    },
+    {
+      "name": "OGAYAR SORIANO RAMON",
+      "slug": "ogayar-soriano-ramon",
+      "companies": 16
+    },
+    {
+      "name": "RASCON ZARZOSA PEDRO JESUS",
+      "slug": "rascon-zarzosa-pedro-jesus",
+      "companies": 16
+    },
+    {
+      "name": "MORALEJO VALLE CALIXTO",
+      "slug": "moralejo-valle-calixto",
+      "companies": 16
+    },
+    {
+      "name": "ROMERO FERNANDEZ MONICA",
+      "slug": "romero-fernandez-monica",
+      "companies": 16
+    },
+    {
+      "name": "LUQUERO RAMOS EVA MARIA",
+      "slug": "luquero-ramos-eva-maria",
+      "companies": 16
+    },
+    {
+      "name": "FERNANDEZ ALONSO DANIEL",
+      "slug": "fernandez-alonso-daniel",
+      "companies": 16
+    },
+    {
+      "name": "JUSTICIA MARTIN JUAN LUIS",
+      "slug": "justicia-martin-juan-luis",
+      "companies": 16
+    },
+    {
+      "name": "LOBATO BATIZ IZARO",
+      "slug": "lobato-batiz-izaro",
+      "companies": 16
+    },
+    {
+      "name": "LODEIRO VIEITES FRANCISCO",
+      "slug": "lodeiro-vieites-francisco",
+      "companies": 16
+    },
+    {
+      "name": "GIMENEZ VALLEJO CHRISTIAN",
+      "slug": "gimenez-vallejo-christian",
+      "companies": 16
+    },
+    {
+      "name": "CAZORLA RUIZ ANTONIO JOSE",
+      "slug": "cazorla-ruiz-antonio-jose",
+      "companies": 16
+    },
+    {
+      "name": "MARTINEZ BERROCAL CELIA MARIA",
+      "slug": "martinez-berrocal-celia-maria",
+      "companies": 16
+    },
+    {
+      "name": "GARCIA LOPEZ JULIA",
+      "slug": "garcia-lopez-julia",
+      "companies": 16
+    },
+    {
+      "name": "FERNANDEZ SANCHEZ PEDRO",
+      "slug": "fernandez-sanchez-pedro",
+      "companies": 16
+    },
+    {
+      "name": "CARRETERO ESTEBAN ELENA",
+      "slug": "carretero-esteban-elena",
+      "companies": 16
+    },
+    {
+      "name": "RUBIO MONTES JUAN",
+      "slug": "rubio-montes-juan",
+      "companies": 16
+    },
+    {
+      "name": "GASA LLAU CARMEN",
+      "slug": "gasa-llau-carmen",
+      "companies": 16
+    },
+    {
+      "name": "COSTA MARRODAN SERGIO",
+      "slug": "costa-marrodan-sergio",
+      "companies": 16
+    },
+    {
+      "name": "LOZANO COLMENAREJO JAVIER",
+      "slug": "lozano-colmenarejo-javier",
+      "companies": 16
+    },
+    {
+      "name": "DIAZ RODRIGUEZ ANTONIO",
+      "slug": "diaz-rodriguez-antonio",
+      "companies": 16
+    },
+    {
+      "name": "BADILLO SERRANO ANTONIO",
+      "slug": "badillo-serrano-antonio",
+      "companies": 16
+    },
+    {
+      "name": "BARAGAÑO RODRIGUEZ CARLOS",
+      "slug": "baragano-rodriguez-carlos",
+      "companies": 16
+    },
+    {
+      "name": "HERVAS ZURITA MONTSERRAT",
+      "slug": "hervas-zurita-montserrat",
+      "companies": 16
+    },
+    {
+      "name": "RODRIGUEZ RODRIGUEZ VANESSA",
+      "slug": "rodriguez-rodriguez-vanessa",
+      "companies": 16
+    },
+    {
+      "name": "BASCONES PEREZ FRAGERO MIGUEL",
+      "slug": "bascones-perez-fragero-miguel",
+      "companies": 16
+    },
+    {
+      "name": "FERNANDEZ DE VINZENZI ALEJO SEBASTIAN",
+      "slug": "fernandez-de-vinzenzi-alejo-sebastian",
+      "companies": 16
+    },
+    {
+      "name": "GOMEZ BACHILLER RAFAEL",
+      "slug": "gomez-bachiller-rafael",
+      "companies": 16
+    },
+    {
+      "name": "IBEAS GARCIA ANA MARIA",
+      "slug": "ibeas-garcia-ana-maria",
+      "companies": 16
+    },
+    {
+      "name": "AYUSO ARROYO ALEJANDRO",
+      "slug": "ayuso-arroyo-alejandro",
+      "companies": 16
+    },
+    {
+      "name": "MARTINEZ LOPEZ JORGE",
+      "slug": "martinez-lopez-jorge",
+      "companies": 16
+    },
+    {
+      "name": "GONZALEZ PILAR MARIA PAZ",
+      "slug": "gonzalez-pilar-maria-paz",
+      "companies": 16
+    },
+    {
+      "name": "PASCUAL VELAZQUEZ ALFONSO",
+      "slug": "pascual-velazquez-alfonso",
+      "companies": 16
+    },
+    {
+      "name": "PEREZ HERNANDEZ JOSE RAMON",
+      "slug": "perez-hernandez-jose-ramon",
+      "companies": 16
+    },
+    {
+      "name": "RODRIGO DE GONZALO MARTINEZ",
+      "slug": "rodrigo-de-gonzalo-martinez",
+      "companies": 16
+    },
+    {
+      "name": "SANTOS MONTERO MIGUEL ANGEL",
+      "slug": "santos-montero-miguel-angel",
+      "companies": 16
+    },
+    {
+      "name": "ALTOZANO GOSALVEZ ALVARO",
+      "slug": "altozano-gosalvez-alvaro",
+      "companies": 16
+    },
+    {
+      "name": "MUÑOZ REDONDO VANESA",
+      "slug": "munoz-redondo-vanesa",
+      "companies": 16
+    },
+    {
+      "name": "CARRASCO GOMEZ ANA",
+      "slug": "carrasco-gomez-ana",
+      "companies": 16
+    },
+    {
+      "name": "BUSCO BAYON ANABEL",
+      "slug": "busco-bayon-anabel",
+      "companies": 16
+    }
+  ]
+}

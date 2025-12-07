@@ -1,0 +1,87 @@
+"""Tipos de sociedades mercantiles."""
+
+# https://es.wikipedia.org/wiki/Anexo:Tipos_de_sociedad_mercantil_en_Espa%C3%B1a
+SOCIEDADES = {
+    "AIE": "Agrupación de Interés Económico",
+    "AEIE": "Agrupación Europea de Interés Económico",
+    "COOP": "Cooperativa",
+    "FP": "Fondo de Pensiones",
+    "SA": "Sociedad Anónima",
+    "SAD": "Sociedad Anónima Deportiva",
+    "SAL": "Sociedad Anónima Laboral",
+    "SAP": "Sociedad Anónima Profesional",
+    "SAS": "Sociedad por Acciones Simplificada",
+    "SAU": "Sociedad Anónima Unipersonal",
+    "SC": "Sociedad Colectiva",
+    "S.COM.": "Sociedad Comanditaria",
+    "S.COM.P.A.": "Sociedad Comanditaria por Acciones",
+    "SCP": "Sociedad Civil Profesional",
+    "SICAV": "Sociedad de Inversión de Capital Variable",
+    "SL": "Sociedad Limitada",
+    "SLL": "Sociedad Limitada Laboral",
+    "SLLP": "Sociedad Limitada Laboral Profesional",
+    "SLNE": "Sociedad Limitada Nueva Empresa",
+    "SLP": "Sociedad Limitada Profesional",
+    "SLU": "Sociedad Limitada Unipersonal",
+    "SME": "Sociedad Mercantil Estatal",
+    "SRL": "Sociedad de Responsabilidad Limitada",
+    "SRLL": "Sociedad de Responsabilidad Limitada Laboral",
+    "SRLP": "Sociedad de Responsabilidad Limitada Profesional",
+    # Sociedades extranjeras
+    "BVBA": "Besloten vennootschap met beperkte aansprakelijkheid",  # Bélgica
+    "BV": "Besloten vennootschap met beperkte aansprakelijkheid",  # Holanda
+    "NV": "Naamloze Vennootschap",  # Holanda
+    "LTD": "Limited company",  # UK
+}
+
+ALL_SOCIEDADES = sorted(SOCIEDADES.keys())
+
+# Mapa de siglas alternativas a siglas normalizadas
+SIGLAS = {
+    "S.L": "SL",
+    "S L": "SL",
+    "SOCIEDAD LIMITADA": "SL",
+    "SOCIETAT LIMITADA": "SL",
+    "SOCIEDAD ANONIMA DEPORTIVA": "SAD",
+    "S.A.L": "SAL",
+    "SOCIEDAD ANONIMA LABORAL": "SAL",
+    "S.A": "SA",
+    "B.V": "BV",
+    "N.V": "NV",
+    "SOCIEDAD ANONIMA": "SA",
+    "SOCIEDAD ANONIMA ESPAÑOLA": "SA",
+    "S L L": "SLL",
+    "S.L.L": "SLL",
+    "SOCIEDAD LIMITADA LABORAL": "SLL",
+    "SOCIEDAD CIVIL PROFESIONAL": "SCP",
+    "SOCIEDAD LIMITADA PROFESIONAL": "SLP",
+    "S.L.P": "SLP",
+    "S. L. P": "SLP",
+    "S.L. PROFESIONAL": "SLP",
+    "SA UNIPERSONAL": "SAU",
+    "S.L UNIPERSONAL": "SLU",
+    "SL UNIPERSONAL": "SLU",
+    "SOCIEDAD LIMITADA UNIPERSONAL": "SLU",
+    "SOCIEDAD LIMITADA NUEVA EMPRESA": "SLNE",
+    "S.L.N.E": "SLNE",
+    "SOCIEDAD DE RESPONSABILIDAD LIMITADA": "SRL",
+    "SOCIEDAD DE RESPONSABILIDAD LIMITADA LABORAL": "SRLL",
+    "SOCIEDAD DE RESPONSABILIDAD LIMITADA PROFESIONAL": "SRLP",
+    "A.I.E": "AIE",
+    "A I E": "AIE",
+    "AGRUPACION DE INTERES ECONOMICO": "AIE",
+    "FONDO DE PENSIONES": "FP",
+    "SOCIEDAD ANONIMA PROFESIONAL": "SAP",
+    "SOCIEDAD COLECTIVA": "SC",
+    "SOCIEDAD COMANDITARIA": "S.COM.",
+    "SOCIEDAD COMANDITARIA SIMPLE": "S.COM.",
+    "SOCIEDAD COMANDITARIA POR ACCIONES": "S.COM.P.A.",
+    "S. COM. P. A": "S.COM.P.A.",
+    "S COM P A": "S.COM.P.A.",
+    "LIMITED": "LTD",
+    "SOCIEDAD MERCANTIL ESTATAL": "SME",
+    "SOCIEDAD ANONIMA DE INVERSION DE CAPITAL VARIABLE": "SICAV",
+    "S.I.C.A.V. SA": "SICAV",
+    "SA SICAV": "SICAV",
+    "SICAV SA": "SICAV",
+}

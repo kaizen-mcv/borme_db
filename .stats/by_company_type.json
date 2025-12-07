@@ -1,0 +1,137 @@
+{
+  "generated_at": "2025-12-07T23:32:34.333459",
+  "distribution": {
+    "SL": 19739,
+    "SA": 2163,
+    "SLP": 398,
+    "": 169,
+    "AIE": 121,
+    "SRL": 92,
+    "FP": 60,
+    "SLL": 49,
+    "SICAV": 34,
+    "BV": 15,
+    "SAP": 14,
+    "LTD": 13,
+    "SCP": 12,
+    "SAS": 11,
+    "SLNE": 10,
+    "SAL": 10,
+    "SME": 10,
+    "SRLL": 6,
+    "SAD": 6,
+    "SLU": 5,
+    "SC": 3,
+    "NV": 3,
+    "SRLP": 2,
+    "COOP": 1,
+    "SAU": 1,
+    "S.COM.": 1
+  },
+  "by_status": {
+    "SRLL": {
+      "active": 5,
+      "extinct": 1
+    },
+    "SL": {
+      "active": 18487,
+      "extinct": 1252
+    },
+    "SAP": {
+      "active": 14,
+      "extinct": 0
+    },
+    "SCP": {
+      "active": 8,
+      "extinct": 4
+    },
+    "SRL": {
+      "active": 87,
+      "extinct": 5
+    },
+    "NV": {
+      "active": 3,
+      "extinct": 0
+    },
+    "": {
+      "active": 163,
+      "extinct": 6
+    },
+    "S.COM.": {
+      "active": 1,
+      "extinct": 0
+    },
+    "SLL": {
+      "active": 40,
+      "extinct": 9
+    },
+    "SICAV": {
+      "active": 33,
+      "extinct": 1
+    },
+    "SAL": {
+      "active": 10,
+      "extinct": 0
+    },
+    "SA": {
+      "active": 2096,
+      "extinct": 67
+    },
+    "SLP": {
+      "active": 378,
+      "extinct": 20
+    },
+    "AIE": {
+      "active": 115,
+      "extinct": 6
+    },
+    "COOP": {
+      "active": 1,
+      "extinct": 0
+    },
+    "SAU": {
+      "active": 1,
+      "extinct": 0
+    },
+    "BV": {
+      "active": 14,
+      "extinct": 1
+    },
+    "SLNE": {
+      "active": 6,
+      "extinct": 4
+    },
+    "SME": {
+      "active": 10,
+      "extinct": 0
+    },
+    "FP": {
+      "active": 60,
+      "extinct": 0
+    },
+    "SC": {
+      "active": 2,
+      "extinct": 1
+    },
+    "SRLP": {
+      "active": 1,
+      "extinct": 1
+    },
+    "LTD": {
+      "active": 13,
+      "extinct": 0
+    },
+    "SAS": {
+      "active": 11,
+      "extinct": 0
+    },
+    "SLU": {
+      "active": 5,
+      "extinct": 0
+    },
+    "SAD": {
+      "active": 6,
+      "extinct": 0
+    }
+  }
+}

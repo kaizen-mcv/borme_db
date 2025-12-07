@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-12-07T23:32:34.299840",
+  "totals": {
+    "bormes": 274,
+    "companies": 22948,
+    "persons": 23407,
+    "anuncios": 24085
+  },
+  "companies": {
+    "active": 21570,
+    "extinct": 1378,
+    "extinction_rate": 6.0
+  },
+  "coverage": {
+    "first_date": "2024-11-25",
+    "last_date": "2024-12-05",
+    "provinces": 51
+  }
+}

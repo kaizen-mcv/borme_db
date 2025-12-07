@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "borme"
+version = "1.0.0"
+description = "CLI para descarga de datos del BORME a PostgreSQL"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "AGPL-3.0"
+authors = [{ name = "Marc" }]
+dependencies = [
+    "bormeparser>=0.3.1",
+    "typer[all]>=0.12.0",
+    "rich>=13.0.0",
+    "sqlalchemy>=2.0.0",
+    "psycopg[binary]>=3.1.0",
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    "python-slugify>=8.0.0",
+    "requests>=2.28.0",
+]
+
+[project.scripts]
+borme = "borme.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/borme"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/borme"]
