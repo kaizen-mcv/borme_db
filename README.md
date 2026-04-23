@@ -1,6 +1,10 @@
-# BORME
+# borme_db
 
-CLI para descarga y gestión de datos del Boletín Oficial del Registro Mercantil (BORME) en PostgreSQL.
+Base de datos PostgreSQL con los datos del Boletín Oficial del Registro
+Mercantil (BORME): todos los actos mercantiles de empresas españolas desde
+2009. Incluye CLI para descarga incremental y parseo.
+
+**Stack:** Python 3.11+, PostgreSQL, psycopg 3, BOE Datos Abiertos.
 
 ## Qué es el BORME
 

@@ -38,7 +38,7 @@ docker-compose -f config/docker-compose.yml up -d
 Crear `.env`:
 
 ```bash
-BORME_DB_URL=postgresql+psycopg://borme_user:REDACTED_PWD@localhost:5432/borme_db
+BORME_DB_URL=postgresql+psycopg://borme_user:<tu-password>@localhost:5432/borme_db
 BORME_DATA_DIR=./data
 ```
 
